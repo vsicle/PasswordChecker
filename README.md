@@ -1,0 +1,5 @@
+Repository is public and includes all necessary files (code, README.md, LICENSE) (3 points)
+README.md clearly explains what the program does (3 points)
+README.md includes correct and complete installation & usage instructions (3 points)
+README.md includes explicit warnings about limitations (3 points)
+README.md includes a responsible use statement that considers potential misuse (3 points)
