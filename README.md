@@ -1,15 +1,8 @@
 What the program does:
-This is a very simple password checker I wrote in python for my ethics in computing class.
-It takes in a password through the command line, and informs the user about the safety
-and security level of the password. The program will check the password against \
-some common passwords, as well as try to brute force a password that is shorter than 4 characters,
-this limit is in place for the sake of time, since I will not be implementing advanced 
-password cracking algorithms for an assignment like this.
+This is a very simple password checker I wrote in python for my ethics in computing class. It takes in a password through the command line, and informs the user about the safety and security level of the password. The program will check the password against \ some common passwords, as well as try to brute force a password that is shorter than 4 characters, this limit is in place for the sake of time, since I will not be implementing advanced  password cracking algorithms for an assignment like this.
 
 Installation/Usage Insrtuctions:
-1. Clone the repo by running this command
-git clone https://github.com/your-username/your-repo-name.git
-
+1. Clone the repo by running this command "git clone https://github.com/your-username/your-repo-name.git"
 2. Naviagte to the folder/directory where you cloned the repo
 3. Execute the program by running the following (a python installation is required)
    python main.py
@@ -57,9 +50,11 @@ Testing passwords belonging to others without consent.
 Using this tool to justify insecure practices
 Modifying the code for malicious purposes.
 
-
-LICENSE file included in the GitHub repo with a viable copyright license (5 points)
+CREATIVE COMMONS LICENSE:
 License justification has a clear thesis (5 points)
+License justification:
+I chose to license this project under the CC0-1.0 (creative commons) license because I feel comfortable making this project a part of the public domain. There is nothing novel in this short program, and I do not plan to monetize it in any way. I want to make it available for educational use, and for a jumping off point to many possible extensions of the project.
+
 License justification has convincing supportive arguments (5 points)
 License justification uses textual evidence (5 points)
 License justification is convincing and well-written (5 points)
