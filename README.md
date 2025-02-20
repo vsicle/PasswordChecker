@@ -49,12 +49,3 @@ Prohibited Misuse
 Testing passwords belonging to others without consent.
 Using this tool to justify insecure practices
 Modifying the code for malicious purposes.
-
-CREATIVE COMMONS LICENSE:
-License justification has a clear thesis (5 points)
-License justification:
-I chose to license this project under the CC0-1.0 (creative commons) license because I feel comfortable making this project a part of the public domain. There is nothing novel in this short program, and I do not plan to monetize it in any way. I want to make it available for educational use, and for a jumping off point to many possible extensions of the project.
-
-License justification has convincing supportive arguments (5 points)
-License justification uses textual evidence (5 points)
-License justification is convincing and well-written (5 points)
