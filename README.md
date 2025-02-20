@@ -2,7 +2,7 @@ What the program does:
 This is a very simple password checker I wrote in python for my ethics in computing class. It takes in a password through the command line, and informs the user about the safety and security level of the password. The program will check the password against \ some common passwords, as well as try to brute force a password that is shorter than 4 characters, this limit is in place for the sake of time, since I will not be implementing advanced  password cracking algorithms for an assignment like this.
 
 Installation/Usage Insrtuctions:
-1. Clone the repo by running this command "git clone https://github.com/your-username/your-repo-name.git"
+1. Clone the repo by running this command "git clone [https://github.com/your-username/your-repo-name.git](https://github.com/vsicle/PasswordChecker.git)"
 2. Naviagte to the folder/directory where you cloned the repo
 3. Execute the program by running the following (a python installation is required)
    python main.py
